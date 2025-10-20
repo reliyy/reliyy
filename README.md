@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">hey there 👋 I'm Reliyy</h1>
+<h1 align="center">Hi there 👋 I'm Reliyy</h1>
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Python&logo=python&label=&color=3776AB&logoColor=white&labelColor=&style=for-the-badge" height="25" />
@@ -13,13 +13,13 @@
 
 ###
 
-<h3 align="left">👩‍💻 About Me</h3>
+<h3 align="left">💡 About Me</h3>
 
 <p align="left">
-Halo! Aku <b>Reliyy</b> dari <b>Surabaya, Indonesia</b> 🇮🇩 <br><br>
-- 🧠 Saat ini lagi belajar <b>Python</b> biar bisa bikin program keren (dan gak error terus 😅)<br>
-- 💻 Pengen dikenal sebagai <b>developer pemula</b> yang lagi naik level<br>
-- 🎮 Kalau gak ngoding, biasanya aku lagi <b>main game</b>... kadang kalah, kadang kalah juga 😎
+I'm <b>Reliyy</b> from <b>Surabaya, Indonesia</b> 🇮🇩 <br><br>
+- 🔭 Currently learning <b>Python</b> and exploring software development<br>
+- 💻 Aspiring to become a <b>junior developer</b><br>
+- 🎮 In my free time, I enjoy <b>gaming</b> and <b>coding</b>
 </p>
 
 ###
@@ -36,7 +36,7 @@ Halo! Aku <b>Reliyy</b> dari <b>Surabaya, Indonesia</b> 🇮🇩 <br><br>
 
 ###
 
-<h3 align="left">📱 Connect with me</h3>
+<h3 align="left">📫 Connect with Me</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/muhammad-farrel-h-66682638a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
@@ -49,7 +49,7 @@ Halo! Aku <b>Reliyy</b> dari <b>Surabaya, Indonesia</b> 🇮🇩 <br><br>
 
 ###
 
-<h3 align="left">🔥 My Stats</h3>
+<h3 align="left">📊 GitHub Stats</h3>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=reliyy&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
@@ -64,5 +64,5 @@ Halo! Aku <b>Reliyy</b> dari <b>Surabaya, Indonesia</b> 🇮🇩 <br><br>
 ###
 
 <div align="center">
-  <p>🌟 “Code dulu, tidur belakangan.” — Reliyy, 2025</p>
+  <p>“Keep learning, keep building.” — Reliyy</p>
 </div>
