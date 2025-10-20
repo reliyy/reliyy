@@ -1,68 +1,71 @@
-<div align="center">
-  <img height="200" src="https://media.tenor.com/1byE0uq9a30AAAAC/bleach-rukia-anime-fortnite-fortnite-dance.gif" alt="rukia dancing gif" />
-</div>
-
-###
-
-<h1 align="center">Hi there 👋 I'm Reliyy</h1>
+# Konichiwa 👋
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Python&logo=python&label=&color=3776AB&logoColor=white&labelColor=&style=for-the-badge" height="25" />
-  <img src="https://img.shields.io/static/v1?message=Indonesia&logo=google-earth&label=&color=E95420&logoColor=white&labelColor=&style=for-the-badge" height="25" />
+  <img height="300" width="700" alt="GIF" align="center" src="https://media.tenor.com/1byE0uq9a30AAAAC/bleach-rukia-anime-fortnite-fortnite-dance.gif">
 </div>
 
-###
+</br>
+</br>
+</br>
 
-<h3 align="left">💡 About Me</h3>
+# About Me 💬 :
 
-<p align="left">
-I'm <b>Reliyy</b> from <b>Surabaya, Indonesia</b> 🇮🇩 <br><br>
-- 🔭 Currently learning <b>Python</b> and exploring software development<br>
-- 💻 Aspiring to become a <b>junior developer</b><br>
-- 🎮 In my free time, I enjoy <b>gaming</b> and <b>coding</b>
+<img height="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+
+### - Learning :
+- ✨ Python Programming
+- ✨ Web Development Basics
+- ✨ Problem Solving & Logic Building
+
+### - Hobbies : 
+- 🎮 Gaming
+- 💻 Coding
+- 📺 Watching Anime
+- 🏸 Playing Badminton
+
+</br>
+</br>
+</br>
+
+# Languages & Tools 👨‍💻 🛠
+</br>
+
+<p align="center">
+
+<!-- You can replace these icons with your own or others from https://github.com/MikeCodesDotNET/ColoredBadges -->
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" height="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="vscode" width="150" height="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/git.png" alt="git" width="100" height="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" height="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" height="50">
 </p>
 
-###
+</br>
+</br>
+</br>
 
-<h3 align="left">🛠️ Languages & Tools</h3>
+# Contact Me 📫
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-</div>
+<p>
+If you want to reach out to me about anything — whether to talk, collaborate, or play some games together, feel free to contact me! 😉
 
-###
+<a href="https://www.linkedin.com/in/muhammad-farrel-h-66682638a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+  <img align="left" alt="LinkedIn" width="150" height="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+</a>
 
-<h3 align="left">📫 Connect with Me</h3>
+<a href="https://discord.com/rrreli/433062354905858049">
+  <img align="left" alt="Discord" width="150" height="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/discord.png" />
+</a>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/muhammad-farrel-h-66682638a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+</br>
+</br>
+</br>
+</p>
+
+<p align="center">  
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=reliyy&show_icons=true&theme=tokyonight"/>
   </a>
-  <a href="https://discord.com/rrreli/433062354905858049" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-  </a>
-</div>
+</p>
 
-###
-
-<h3 align="left">📊 GitHub Stats</h3>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=reliyy&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=reliyy.reliyy" />
-</div>
-
-###
-
-<div align="center">
-  <p>“Keep learning, keep building.” — Reliyy</p>
-</div>
+*************
