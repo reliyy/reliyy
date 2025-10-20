@@ -31,4 +31,38 @@ I'm <b>Reliyy</b> from <b>Surabaya, Indonesia</b> 🇮🇩 <br><br>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git l
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+</div>
+
+###
+
+<h3 align="left">📫 Connect with Me</h3>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/muhammad-farrel-h-66682638a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <a href="https://discord.com/rrreli/433062354905858049" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+  </a>
+</div>
+
+###
+
+<h3 align="left">📊 GitHub Stats</h3>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=reliyy&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=reliyy.reliyy" />
+</div>
+
+###
+
+<div align="center">
+  <p>“Keep learning, keep building.” — <b>Reliyy</b></p>
+</div>
