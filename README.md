@@ -64,5 +64,5 @@ I'm <b>Reliyy</b> from <b>Surabaya, Indonesia</b> 🇮🇩 <br><br>
 ###
 
 <div align="center">
-  <p>“Keep learning, keep building.” — <b>Reliyy</b></p>
+  <p>“Stop learning, start sleeping .” — <b>Nicholas Musa the Great</b></p>
 </div>
