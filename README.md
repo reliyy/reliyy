@@ -16,7 +16,7 @@
 <h3 align="left">💡 About Me</h3>
 
 <p align="left">
-I'm <b>Reliyy</b> from <b>Surabaya, Indonesia</b> 🇮🇩 <br><br>
+I'm <b>Reli</b> from <b>Surabaya, Indonesia</b> 🇮🇩 <br><br>
 - 🔭 Currently learning <b>Python</b> and exploring <b>software development</b><br>
 - 💻 Aspiring to become a <b>junior developer</b><br>
 - 🎮 In my free time, I enjoy <b>gaming</b> and <b>coding</b>
@@ -64,5 +64,5 @@ I'm <b>Reliyy</b> from <b>Surabaya, Indonesia</b> 🇮🇩 <br><br>
 ###
 
 <div align="center">
-  <p>“Stop learning, start sleeping .” — <b>Nicholas Musa the Great</b></p>
+  <p>“I cant beat reli in efootball .” — <b>Nicholas Musa the Great</b></p>
 </div>
