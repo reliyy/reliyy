@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hi there 👋 I'm Reliyy</h1>
+<h1 align="center">Hi mbut 👋 I'm Reli</h1>
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Python&logo=python&label=&color=3776AB&logoColor=white&labelColor=&style=for-the-badge" height="25" />
